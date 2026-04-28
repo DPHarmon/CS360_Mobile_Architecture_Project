@@ -185,18 +185,6 @@ CS360_Mobile_Architecture_Project/
 # Instrumented tests (requires connected device or emulator)
 ./gradlew connectedAndroidTest
 ```
-
-Or in Android Studio, right-click the `test` or `androidTest` folder and select **Run Tests**. All 16 tests pass.
-
----
-
-## 📝 Changelog
-
-| Commit | Message |
-|---|---|
-| `b8d68ed` | Create README.md |
-| `6ad4528` | Initial Commit: Warehouse Inventory App |
-
 ---
 
 ## 🚀 App Launch Plan (Project 3)
